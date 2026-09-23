@@ -10,14 +10,6 @@
   <a href="https://www.linkedin.com/in/jaider-quimbaya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
-
-  <a href="mailto:jaiderstivenquimbaya8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -30,7 +22,14 @@
 
 ###
 
-<p align="left">Como desarrollador de software, me motiva la oportunidad de enfrentar retos tecnológicos y encontrar soluciones que aporten valor real. A lo largo de mi carrera, he trabajado en proyectos que combinan diseño y funcionalidad, logrando productos digitales escalables y de alto impacto. Busco un entorno desafiante donde pueda contribuir con mis habilidades y crecer profesionalmente, siempre con la meta de seguir mejorando mis capacidades técnicas.</p>
+<p align="left">Soy desarrollador <b>Full Stack</b> y me gusta convertir ideas en productos digitales que funcionan bien y se sienten bien. Trabajo en ambos lados de la aplicación: construyo interfaces rápidas y cuidadas con <b>React</b>, <b>Next.js</b> y <b>Astro</b>, y diseño APIs y servicios con <b>NestJS</b>, <b>Laravel</b> y <b>Flask</b>.</p>
+
+<ul>
+  <li>🚀 Llevo proyectos de principio a fin: del diseño en Figma al despliegue con Docker.</li>
+  <li>🧩 Me interesan las arquitecturas limpias, los datos bien modelados (PostgreSQL, MySQL, MongoDB) y la comunicación entre servicios con RabbitMQ y Redis.</li>
+  <li>🤝 Trabajo en equipo con metodologías ágiles y le doy importancia al código legible y mantenible.</li>
+  <li>🌱 Sigo aprendiendo cada día y busco retos que me hagan crecer como desarrollador.</li>
+</ul>
 
 ###
 
